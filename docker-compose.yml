@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  # 1. PostgreSQL + pgvector (관계형 데이터 및 벡터 데이터 통합 관리)
+  db:
+    image: ankane/pgvector:latest
+    container_name: ctrls-postgres
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password123  # 실제 환경에서는 .env 활용 권장
+      POSTGRES_DB: ctrls_archive
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  # 2. MinIO (로컬 객체 스토리지 / 파일 업로드용)
+  minio:
+    image: minio/minio:latest
+    container_name: ctrls-minio
+    restart: always
+    environment:
+      MINIO_ROOT_USER: admin
+      MINIO_ROOT_PASSWORD: password123
+    command: server /data --console-address ":9001"
+    ports:
+      - "9000:9000"   # API 포트
+      - "9001:9001"   # 웹 콘솔 포트
+    volumes:
+      - minio_data:/data
+
+volumes:
+  postgres_data:
+  minio_data:
