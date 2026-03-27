@@ -1,0 +1,25 @@
+name: 📋 Task
+description: 개발 작업, 리팩터링, 설정 등 기능/버그 외의 작업을 등록합니다.
+title: "[Task] "
+labels: ["task"]
+assignees: []
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: 작업 내용
+      placeholder: |
+        무엇을 해야 하는지, 왜 필요한지 자유롭게 적어주세요.
+        완료 기준이 있다면 체크리스트로 추가해도 좋습니다.
+        예)
+        - [ ] api_client.gd HTTP 호출 중앙화
+        - [ ] 기존 동작 이상 없음 확인
+    validations:
+      required: true
+
+  - type: textarea
+    id: related
+    attributes:
+      label: 관련 이슈 / 참고 자료 (선택)
+      placeholder: "Closes #12, Refs #7"

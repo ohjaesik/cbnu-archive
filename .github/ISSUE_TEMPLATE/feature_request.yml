@@ -1,0 +1,22 @@
+name: ✨ Feature Request
+description: 새로운 기능 또는 게임 메커니즘을 제안합니다.
+title: "[Feat] "
+labels: ["enhancement"]
+assignees: []
+
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 어떤 기능을 원하시나요?
+      placeholder: |
+        무엇이 불편했는지, 어떤 기능이 있으면 좋겠는지 자유롭게 적어주세요.
+        구체적인 구현 아이디어가 있다면 같이 써주셔도 좋습니다.
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: 추가 맥락 (선택)
+      placeholder: 참고할 만한 레퍼런스, 스크린샷, 관련 이슈 번호 등
