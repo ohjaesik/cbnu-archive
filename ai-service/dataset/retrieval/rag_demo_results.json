@@ -1,0 +1,1223 @@
+[
+  {
+    "query": "Spring Boot로 만든 백엔드 프로젝트 찾아줘",
+    "answer": "1. 가장 적합한 프로젝트\n- 프로젝트명: spring-boot (spring-projects/spring-boot)\n- 추천 이유: 기술 스택 일치: Spring Boot\n- 검색 점수: 0.893028\n\n2. 추가로 볼 만한 프로젝트\n- 추가 후보가 없습니다.\n\n3. 추천 순위 요약\n- 1순위: spring-boot (spring-projects/spring-boot) / score=0.893028\n- 2순위: DeepSeek-V3 (deepseek-ai/DeepSeek-V3) / score=0.327403\n- 3순위: project-based-learning (practical-tutorials/project-based-learning) / score=0.31508",
+    "contexts": [
+      {
+        "rank": 1,
+        "project_id": "spring-projects/spring-boot",
+        "title": "spring-boot",
+        "context_text": "[검색순위 1]\nproject_id: spring-projects/spring-boot\ntitle: spring-boot\nscore: 0.893028\nembedding_score: 0.805505\nmetadata_score: 1.0\nmatch_reason: 기술 스택 일치: Spring Boot\nsummary: Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.\ndescription: Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.\nlanguage: Java\nkeywords: framework, java, spring\ntech_stack: Spring Boot, Java, HTML",
+        "score": 0.893028,
+        "embedding_score": 0.805505,
+        "metadata_score": 1.0,
+        "explanation": "기술 스택 일치: Spring Boot",
+        "metadata": {
+          "summary": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+          "language": "Java",
+          "keywords": [
+            "framework",
+            "java",
+            "spring"
+          ],
+          "tech_stack": [
+            "Spring Boot",
+            "Java",
+            "HTML"
+          ]
+        }
+      },
+      {
+        "rank": 2,
+        "project_id": "deepseek-ai/DeepSeek-V3",
+        "title": "DeepSeek-V3",
+        "context_text": "[검색순위 2]\nproject_id: deepseek-ai/DeepSeek-V3\ntitle: DeepSeek-V3\nscore: 0.327403\nembedding_score: 0.826776\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\ndescription: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\nlanguage: Python\nkeywords: deepseek-v3\ntech_stack: Python, HTML",
+        "score": 0.327403,
+        "embedding_score": 0.826776,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "description": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "language": "Python",
+          "keywords": [
+            "deepseek-v3"
+          ],
+          "tech_stack": [
+            "Python",
+            "HTML"
+          ]
+        }
+      },
+      {
+        "rank": 3,
+        "project_id": "practical-tutorials/project-based-learning",
+        "title": "project-based-learning",
+        "context_text": "[검색순위 3]\nproject_id: practical-tutorials/project-based-learning\ntitle: project-based-learning\nscore: 0.31508\nembedding_score: 0.795655\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Curated list of project-based tutorials\ndescription: Curated list of project-based tutorials\nlanguage: \nkeywords: beginner-project, cpp, golang\ntech_stack: Java, Python, HTML, C",
+        "score": 0.31508,
+        "embedding_score": 0.795655,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Curated list of project-based tutorials",
+          "description": "Curated list of project-based tutorials",
+          "language": "",
+          "keywords": [
+            "beginner-project",
+            "cpp",
+            "golang"
+          ],
+          "tech_stack": [
+            "Java",
+            "Python",
+            "HTML",
+            "C"
+          ]
+        }
+      },
+      {
+        "rank": 4,
+        "project_id": "ashishps1/awesome-system-design-resources",
+        "title": "awesome-system-design-resources",
+        "context_text": "[검색순위 4]\nproject_id: ashishps1/awesome-system-design-resources\ntitle: awesome-system-design-resources\nscore: 0.313677\nembedding_score: 0.792115\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Learn System Design concepts and prepare for interviews using free resources.\ndescription: Learn System Design concepts and prepare for interviews using free resources.\nlanguage: Java\nkeywords: backend, computer-science, distributed-systems\ntech_stack: Java, Python",
+        "score": 0.313677,
+        "embedding_score": 0.792115,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Learn System Design concepts and prepare for interviews using free resources.",
+          "description": "Learn System Design concepts and prepare for interviews using free resources.",
+          "language": "Java",
+          "keywords": [
+            "backend",
+            "computer-science",
+            "distributed-systems"
+          ],
+          "tech_stack": [
+            "Java",
+            "Python"
+          ]
+        }
+      },
+      {
+        "rank": 5,
+        "project_id": "freeCodeCamp/freeCodeCamp",
+        "title": "freeCodeCamp",
+        "context_text": "[검색순위 5]\nproject_id: freeCodeCamp/freeCodeCamp\ntitle: freeCodeCamp\nscore: 0.310772\nembedding_score: 0.784779\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.\ndescription: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.\nlanguage: TypeScript\nkeywords: certification, curriculum, education\ntech_stack: React, Node.js, TypeScript, Python, C, Prisma",
+        "score": 0.310772,
+        "embedding_score": 0.784779,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "language": "TypeScript",
+          "keywords": [
+            "certification",
+            "curriculum",
+            "education"
+          ],
+          "tech_stack": [
+            "React",
+            "Node.js",
+            "TypeScript",
+            "Python",
+            "C",
+            "Prisma"
+          ]
+        }
+      }
+    ],
+    "search_results": [
+      {
+        "project_id": "spring-projects/spring-boot",
+        "title": "spring-boot",
+        "score": 0.893028,
+        "embedding_score": 0.805505,
+        "metadata_score": 1.0,
+        "explanation": "기술 스택 일치: Spring Boot",
+        "metadata": {
+          "summary": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+          "language": "Java",
+          "keywords": [
+            "framework",
+            "java",
+            "spring"
+          ],
+          "tech_stack": [
+            "Spring Boot",
+            "Java",
+            "HTML"
+          ]
+        }
+      },
+      {
+        "project_id": "deepseek-ai/DeepSeek-V3",
+        "title": "DeepSeek-V3",
+        "score": 0.327403,
+        "embedding_score": 0.826776,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "description": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "language": "Python",
+          "keywords": [
+            "deepseek-v3"
+          ],
+          "tech_stack": [
+            "Python",
+            "HTML"
+          ]
+        }
+      },
+      {
+        "project_id": "practical-tutorials/project-based-learning",
+        "title": "project-based-learning",
+        "score": 0.31508,
+        "embedding_score": 0.795655,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Curated list of project-based tutorials",
+          "description": "Curated list of project-based tutorials",
+          "language": "",
+          "keywords": [
+            "beginner-project",
+            "cpp",
+            "golang"
+          ],
+          "tech_stack": [
+            "Java",
+            "Python",
+            "HTML",
+            "C"
+          ]
+        }
+      },
+      {
+        "project_id": "ashishps1/awesome-system-design-resources",
+        "title": "awesome-system-design-resources",
+        "score": 0.313677,
+        "embedding_score": 0.792115,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Learn System Design concepts and prepare for interviews using free resources.",
+          "description": "Learn System Design concepts and prepare for interviews using free resources.",
+          "language": "Java",
+          "keywords": [
+            "backend",
+            "computer-science",
+            "distributed-systems"
+          ],
+          "tech_stack": [
+            "Java",
+            "Python"
+          ]
+        }
+      },
+      {
+        "project_id": "freeCodeCamp/freeCodeCamp",
+        "title": "freeCodeCamp",
+        "score": 0.310772,
+        "embedding_score": 0.784779,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "language": "TypeScript",
+          "keywords": [
+            "certification",
+            "curriculum",
+            "education"
+          ],
+          "tech_stack": [
+            "React",
+            "Node.js",
+            "TypeScript",
+            "Python",
+            "C",
+            "Prisma"
+          ]
+        }
+      }
+    ],
+    "prompt": "너는 교내 프로젝트 아카이브 검색 도우미다.\n\n중요 규칙:\n1. 반드시 아래 검색 결과 context에 적힌 정보만 사용한다.\n2. context에 없는 기술, 기능, 설명은 절대 추가하지 않는다.\n3. 검색 시스템의 순위를 임의로 바꾸지 않는다.\n4. 반드시 검색순위 1번 프로젝트를 '가장 적합한 프로젝트'로 먼저 설명한다.\n5. 추가 후보는 검색순위 2번, 3번 순서대로 설명한다.\n6. 질문과 관련성이 낮은 후보는 \"추가 후보이지만 직접 관련성은 낮다\"고 말한다.\n7. 프로젝트명은 반드시 context의 title 또는 project_id를 그대로 사용한다.\n8. 한국어로 답변한다.\n\n사용자 질문:\nSpring Boot로 만든 백엔드 프로젝트 찾아줘\n\n검색 시스템 판단:\n검색 시스템이 판단한 1순위 프로젝트는 spring-boot (spring-projects/spring-boot)이다.\n\n검색 순위 요약:\n1위: spring-boot (spring-projects/spring-boot) / score=0.893028 / reason=기술 스택 일치: Spring Boot\n2위: DeepSeek-V3 (deepseek-ai/DeepSeek-V3) / score=0.327403 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n3위: project-based-learning (practical-tutorials/project-based-learning) / score=0.31508 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n4위: awesome-system-design-resources (ashishps1/awesome-system-design-resources) / score=0.313677 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n5위: freeCodeCamp (freeCodeCamp/freeCodeCamp) / score=0.310772 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n\n검색 결과 context:\n[검색순위 1]\nproject_id: spring-projects/spring-boot\ntitle: spring-boot\nscore: 0.893028\nembedding_score: 0.805505\nmetadata_score: 1.0\nmatch_reason: 기술 스택 일치: Spring Boot\nsummary: Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.\ndescription: Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.\nlanguage: Java\nkeywords: framework, java, spring\ntech_stack: Spring Boot, Java, HTML\n\n[검색순위 2]\nproject_id: deepseek-ai/DeepSeek-V3\ntitle: DeepSeek-V3\nscore: 0.327403\nembedding_score: 0.826776\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\ndescription: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\nlanguage: Python\nkeywords: deepseek-v3\ntech_stack: Python, HTML\n\n[검색순위 3]\nproject_id: practical-tutorials/project-based-learning\ntitle: project-based-learning\nscore: 0.31508\nembedding_score: 0.795655\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Curated list of project-based tutorials\ndescription: Curated list of project-based tutorials\nlanguage: \nkeywords: beginner-project, cpp, golang\ntech_stack: Java, Python, HTML, C\n\n[검색순위 4]\nproject_id: ashishps1/awesome-system-design-resources\ntitle: awesome-system-design-resources\nscore: 0.313677\nembedding_score: 0.792115\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Learn System Design concepts and prepare for interviews using free resources.\ndescription: Learn System Design concepts and prepare for interviews using free resources.\nlanguage: Java\nkeywords: backend, computer-science, distributed-systems\ntech_stack: Java, Python\n\n[검색순위 5]\nproject_id: freeCodeCamp/freeCodeCamp\ntitle: freeCodeCamp\nscore: 0.310772\nembedding_score: 0.784779\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.\ndescription: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.\nlanguage: TypeScript\nkeywords: certification, curriculum, education\ntech_stack: React, Node.js, TypeScript, Python, C, Prisma\n\n답변 형식:\n1. 가장 적합한 프로젝트\n- 프로젝트명:\n- 추천 이유:\n- 근거가 되는 context 정보:\n\n2. 추가로 볼 만한 프로젝트\n- 프로젝트명:\n- 추천 이유:\n- 관련성 판단:\n\n3. 추천 순위 요약\n- 1순위:\n- 2순위:\n- 3순위:"
+  },
+  {
+    "query": "RAG나 문서 검색과 관련된 프로젝트 추천해줘",
+    "answer": "질의와 직접적으로 관련된 프로젝트를 찾지 못했습니다.\n- 입력 질의: RAG나 문서 검색과 관련된 프로젝트 추천해줘\n- 현재 상위 후보들은 임베딩 유사도만으로 검색되었고, 메타데이터 기준의 명확한 주제/기술 매칭은 없습니다.\n- 관련 프로젝트를 찾으려면 corpus에 RAG, 문서 검색, 추천 시스템, 피드 랭킹 관련 metadata가 포함되어야 합니다.",
+    "contexts": [
+      {
+        "rank": 1,
+        "project_id": "deepseek-ai/DeepSeek-V3",
+        "title": "DeepSeek-V3",
+        "context_text": "[검색순위 1]\nproject_id: deepseek-ai/DeepSeek-V3\ntitle: DeepSeek-V3\nscore: 0.322436\nembedding_score: 0.814233\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\ndescription: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\nlanguage: Python\nkeywords: deepseek-v3\ntech_stack: Python, HTML",
+        "score": 0.322436,
+        "embedding_score": 0.814233,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "description": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "language": "Python",
+          "keywords": [
+            "deepseek-v3"
+          ],
+          "tech_stack": [
+            "Python",
+            "HTML"
+          ]
+        }
+      },
+      {
+        "rank": 2,
+        "project_id": "freeCodeCamp/freeCodeCamp",
+        "title": "freeCodeCamp",
+        "context_text": "[검색순위 2]\nproject_id: freeCodeCamp/freeCodeCamp\ntitle: freeCodeCamp\nscore: 0.310439\nembedding_score: 0.783936\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.\ndescription: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.\nlanguage: TypeScript\nkeywords: certification, curriculum, education\ntech_stack: React, Node.js, TypeScript, Python, C, Prisma",
+        "score": 0.310439,
+        "embedding_score": 0.783936,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "language": "TypeScript",
+          "keywords": [
+            "certification",
+            "curriculum",
+            "education"
+          ],
+          "tech_stack": [
+            "React",
+            "Node.js",
+            "TypeScript",
+            "Python",
+            "C",
+            "Prisma"
+          ]
+        }
+      },
+      {
+        "rank": 3,
+        "project_id": "twitter/the-algorithm",
+        "title": "the-algorithm",
+        "context_text": "[검색순위 3]\nproject_id: twitter/the-algorithm\ntitle: the-algorithm\nscore: 0.31028\nembedding_score: 0.783536\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Source code for the X Recommendation Algorithm\ndescription: Source code for the X Recommendation Algorithm\nlanguage: Scala\nkeywords: machine learning, the-algorithm, for\ntech_stack: Scala, Java",
+        "score": 0.31028,
+        "embedding_score": 0.783536,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Source code for the X Recommendation Algorithm",
+          "description": "Source code for the X Recommendation Algorithm",
+          "language": "Scala",
+          "keywords": [
+            "machine learning",
+            "the-algorithm",
+            "for"
+          ],
+          "tech_stack": [
+            "Scala",
+            "Java"
+          ]
+        }
+      },
+      {
+        "rank": 4,
+        "project_id": "jaywcjlove/awesome-mac",
+        "title": "awesome-mac",
+        "context_text": "[검색순위 4]\nproject_id: jaywcjlove/awesome-mac\ntitle: awesome-mac\nscore: 0.308811\nembedding_score: 0.779825\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary:  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.\ndescription:  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.\nlanguage: Swift\nkeywords: app, apple, application\ntech_stack: Swift",
+        "score": 0.308811,
+        "embedding_score": 0.779825,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+          "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+          "language": "Swift",
+          "keywords": [
+            "app",
+            "apple",
+            "application"
+          ],
+          "tech_stack": [
+            "Swift"
+          ]
+        }
+      },
+      {
+        "rank": 5,
+        "project_id": "practical-tutorials/project-based-learning",
+        "title": "project-based-learning",
+        "context_text": "[검색순위 5]\nproject_id: practical-tutorials/project-based-learning\ntitle: project-based-learning\nscore: 0.308026\nembedding_score: 0.777843\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Curated list of project-based tutorials\ndescription: Curated list of project-based tutorials\nlanguage: \nkeywords: beginner-project, cpp, golang\ntech_stack: Java, Python, HTML, C",
+        "score": 0.308026,
+        "embedding_score": 0.777843,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Curated list of project-based tutorials",
+          "description": "Curated list of project-based tutorials",
+          "language": "",
+          "keywords": [
+            "beginner-project",
+            "cpp",
+            "golang"
+          ],
+          "tech_stack": [
+            "Java",
+            "Python",
+            "HTML",
+            "C"
+          ]
+        }
+      }
+    ],
+    "search_results": [
+      {
+        "project_id": "deepseek-ai/DeepSeek-V3",
+        "title": "DeepSeek-V3",
+        "score": 0.322436,
+        "embedding_score": 0.814233,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "description": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "language": "Python",
+          "keywords": [
+            "deepseek-v3"
+          ],
+          "tech_stack": [
+            "Python",
+            "HTML"
+          ]
+        }
+      },
+      {
+        "project_id": "freeCodeCamp/freeCodeCamp",
+        "title": "freeCodeCamp",
+        "score": 0.310439,
+        "embedding_score": 0.783936,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "language": "TypeScript",
+          "keywords": [
+            "certification",
+            "curriculum",
+            "education"
+          ],
+          "tech_stack": [
+            "React",
+            "Node.js",
+            "TypeScript",
+            "Python",
+            "C",
+            "Prisma"
+          ]
+        }
+      },
+      {
+        "project_id": "twitter/the-algorithm",
+        "title": "the-algorithm",
+        "score": 0.31028,
+        "embedding_score": 0.783536,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Source code for the X Recommendation Algorithm",
+          "description": "Source code for the X Recommendation Algorithm",
+          "language": "Scala",
+          "keywords": [
+            "machine learning",
+            "the-algorithm",
+            "for"
+          ],
+          "tech_stack": [
+            "Scala",
+            "Java"
+          ]
+        }
+      },
+      {
+        "project_id": "jaywcjlove/awesome-mac",
+        "title": "awesome-mac",
+        "score": 0.308811,
+        "embedding_score": 0.779825,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+          "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+          "language": "Swift",
+          "keywords": [
+            "app",
+            "apple",
+            "application"
+          ],
+          "tech_stack": [
+            "Swift"
+          ]
+        }
+      },
+      {
+        "project_id": "practical-tutorials/project-based-learning",
+        "title": "project-based-learning",
+        "score": 0.308026,
+        "embedding_score": 0.777843,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Curated list of project-based tutorials",
+          "description": "Curated list of project-based tutorials",
+          "language": "",
+          "keywords": [
+            "beginner-project",
+            "cpp",
+            "golang"
+          ],
+          "tech_stack": [
+            "Java",
+            "Python",
+            "HTML",
+            "C"
+          ]
+        }
+      }
+    ],
+    "prompt": "너는 교내 프로젝트 아카이브 검색 도우미다.\n\n중요 규칙:\n1. 반드시 아래 검색 결과 context에 적힌 정보만 사용한다.\n2. context에 없는 기술, 기능, 설명은 절대 추가하지 않는다.\n3. 검색 시스템의 순위를 임의로 바꾸지 않는다.\n4. 반드시 검색순위 1번 프로젝트를 '가장 적합한 프로젝트'로 먼저 설명한다.\n5. 추가 후보는 검색순위 2번, 3번 순서대로 설명한다.\n6. 질문과 관련성이 낮은 후보는 \"추가 후보이지만 직접 관련성은 낮다\"고 말한다.\n7. 프로젝트명은 반드시 context의 title 또는 project_id를 그대로 사용한다.\n8. 한국어로 답변한다.\n\n사용자 질문:\nRAG나 문서 검색과 관련된 프로젝트 추천해줘\n\n검색 시스템 판단:\n검색 시스템이 판단한 1순위 프로젝트는 DeepSeek-V3 (deepseek-ai/DeepSeek-V3)이다.\n\n검색 순위 요약:\n1위: DeepSeek-V3 (deepseek-ai/DeepSeek-V3) / score=0.322436 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n2위: freeCodeCamp (freeCodeCamp/freeCodeCamp) / score=0.310439 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n3위: the-algorithm (twitter/the-algorithm) / score=0.31028 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n4위: awesome-mac (jaywcjlove/awesome-mac) / score=0.308811 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n5위: project-based-learning (practical-tutorials/project-based-learning) / score=0.308026 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n\n검색 결과 context:\n[검색순위 1]\nproject_id: deepseek-ai/DeepSeek-V3\ntitle: DeepSeek-V3\nscore: 0.322436\nembedding_score: 0.814233\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\ndescription: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\nlanguage: Python\nkeywords: deepseek-v3\ntech_stack: Python, HTML\n\n[검색순위 2]\nproject_id: freeCodeCamp/freeCodeCamp\ntitle: freeCodeCamp\nscore: 0.310439\nembedding_score: 0.783936\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.\ndescription: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.\nlanguage: TypeScript\nkeywords: certification, curriculum, education\ntech_stack: React, Node.js, TypeScript, Python, C, Prisma\n\n[검색순위 3]\nproject_id: twitter/the-algorithm\ntitle: the-algorithm\nscore: 0.31028\nembedding_score: 0.783536\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Source code for the X Recommendation Algorithm\ndescription: Source code for the X Recommendation Algorithm\nlanguage: Scala\nkeywords: machine learning, the-algorithm, for\ntech_stack: Scala, Java\n\n[검색순위 4]\nproject_id: jaywcjlove/awesome-mac\ntitle: awesome-mac\nscore: 0.308811\nembedding_score: 0.779825\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary:  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.\ndescription:  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.\nlanguage: Swift\nkeywords: app, apple, application\ntech_stack: Swift\n\n[검색순위 5]\nproject_id: practical-tutorials/project-based-learning\ntitle: project-based-learning\nscore: 0.308026\nembedding_score: 0.777843\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Curated list of project-based tutorials\ndescription: Curated list of project-based tutorials\nlanguage: \nkeywords: beginner-project, cpp, golang\ntech_stack: Java, Python, HTML, C\n\n답변 형식:\n1. 가장 적합한 프로젝트\n- 프로젝트명:\n- 추천 이유:\n- 근거가 되는 context 정보:\n\n2. 추가로 볼 만한 프로젝트\n- 프로젝트명:\n- 추천 이유:\n- 관련성 판단:\n\n3. 추천 순위 요약\n- 1순위:\n- 2순위:\n- 3순위:"
+  },
+  {
+    "query": "이미지 생성 AI 관련 프로젝트 있어?",
+    "answer": "1. 가장 적합한 프로젝트\n- 프로젝트명: stable-diffusion-webui (AUTOMATIC1111/stable-diffusion-webui)\n- 추천 이유: 질의어와 키워드 일치: ai\n- 검색 점수: 0.866904\n\n2. 추가로 볼 만한 프로젝트\n- 프로젝트명: DeepSeek-V3 (deepseek-ai/DeepSeek-V3)\n  - 추천 이유: 질의어가 요약에 포함: ai\n  - 관련성 판단: 질의 조건과 일부 메타데이터가 일치합니다.\n\n3. 추천 순위 요약\n- 1순위: stable-diffusion-webui (AUTOMATIC1111/stable-diffusion-webui) / score=0.866904\n- 2순위: DeepSeek-V3 (deepseek-ai/DeepSeek-V3) / score=0.598189\n- 3순위: the-algorithm (twitter/the-algorithm) / score=0.29918",
+    "contexts": [
+      {
+        "rank": 1,
+        "project_id": "AUTOMATIC1111/stable-diffusion-webui",
+        "title": "stable-diffusion-webui",
+        "context_text": "[검색순위 1]\nproject_id: AUTOMATIC1111/stable-diffusion-webui\ntitle: stable-diffusion-webui\nscore: 0.866904\nembedding_score: 0.758008\nmetadata_score: 1.0\nmatch_reason: 질의어와 키워드 일치: ai\nsummary: Stable Diffusion web UI\ndescription: Stable Diffusion web UI\nlanguage: Python\nkeywords: ai, ai-art, deep-learning\ntech_stack: Python, HTML, C",
+        "score": 0.866904,
+        "embedding_score": 0.758008,
+        "metadata_score": 1.0,
+        "explanation": "질의어와 키워드 일치: ai",
+        "metadata": {
+          "summary": "Stable Diffusion web UI",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "keywords": [
+            "ai",
+            "ai-art",
+            "deep-learning"
+          ],
+          "tech_stack": [
+            "Python",
+            "HTML",
+            "C"
+          ]
+        }
+      },
+      {
+        "rank": 2,
+        "project_id": "deepseek-ai/DeepSeek-V3",
+        "title": "DeepSeek-V3",
+        "context_text": "[검색순위 2]\nproject_id: deepseek-ai/DeepSeek-V3\ntitle: DeepSeek-V3\nscore: 0.598189\nembedding_score: 0.799564\nmetadata_score: 0.533333\nmatch_reason: 질의어가 요약에 포함: ai\nsummary: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\ndescription: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\nlanguage: Python\nkeywords: deepseek-v3\ntech_stack: Python, HTML",
+        "score": 0.598189,
+        "embedding_score": 0.799564,
+        "metadata_score": 0.533333,
+        "explanation": "질의어가 요약에 포함: ai",
+        "metadata": {
+          "summary": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "description": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "language": "Python",
+          "keywords": [
+            "deepseek-v3"
+          ],
+          "tech_stack": [
+            "Python",
+            "HTML"
+          ]
+        }
+      },
+      {
+        "rank": 3,
+        "project_id": "twitter/the-algorithm",
+        "title": "the-algorithm",
+        "context_text": "[검색순위 3]\nproject_id: twitter/the-algorithm\ntitle: the-algorithm\nscore: 0.29918\nembedding_score: 0.755504\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Source code for the X Recommendation Algorithm\ndescription: Source code for the X Recommendation Algorithm\nlanguage: Scala\nkeywords: machine learning, the-algorithm, for\ntech_stack: Scala, Java",
+        "score": 0.29918,
+        "embedding_score": 0.755504,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Source code for the X Recommendation Algorithm",
+          "description": "Source code for the X Recommendation Algorithm",
+          "language": "Scala",
+          "keywords": [
+            "machine learning",
+            "the-algorithm",
+            "for"
+          ],
+          "tech_stack": [
+            "Scala",
+            "Java"
+          ]
+        }
+      },
+      {
+        "rank": 4,
+        "project_id": "ashishps1/awesome-system-design-resources",
+        "title": "awesome-system-design-resources",
+        "context_text": "[검색순위 4]\nproject_id: ashishps1/awesome-system-design-resources\ntitle: awesome-system-design-resources\nscore: 0.293318\nembedding_score: 0.740702\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Learn System Design concepts and prepare for interviews using free resources.\ndescription: Learn System Design concepts and prepare for interviews using free resources.\nlanguage: Java\nkeywords: backend, computer-science, distributed-systems\ntech_stack: Java, Python",
+        "score": 0.293318,
+        "embedding_score": 0.740702,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Learn System Design concepts and prepare for interviews using free resources.",
+          "description": "Learn System Design concepts and prepare for interviews using free resources.",
+          "language": "Java",
+          "keywords": [
+            "backend",
+            "computer-science",
+            "distributed-systems"
+          ],
+          "tech_stack": [
+            "Java",
+            "Python"
+          ]
+        }
+      },
+      {
+        "rank": 5,
+        "project_id": "freeCodeCamp/freeCodeCamp",
+        "title": "freeCodeCamp",
+        "context_text": "[검색순위 5]\nproject_id: freeCodeCamp/freeCodeCamp\ntitle: freeCodeCamp\nscore: 0.292509\nembedding_score: 0.738658\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.\ndescription: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.\nlanguage: TypeScript\nkeywords: certification, curriculum, education\ntech_stack: React, Node.js, TypeScript, Python, C, Prisma",
+        "score": 0.292509,
+        "embedding_score": 0.738658,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "language": "TypeScript",
+          "keywords": [
+            "certification",
+            "curriculum",
+            "education"
+          ],
+          "tech_stack": [
+            "React",
+            "Node.js",
+            "TypeScript",
+            "Python",
+            "C",
+            "Prisma"
+          ]
+        }
+      }
+    ],
+    "search_results": [
+      {
+        "project_id": "AUTOMATIC1111/stable-diffusion-webui",
+        "title": "stable-diffusion-webui",
+        "score": 0.866904,
+        "embedding_score": 0.758008,
+        "metadata_score": 1.0,
+        "explanation": "질의어와 키워드 일치: ai",
+        "metadata": {
+          "summary": "Stable Diffusion web UI",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "keywords": [
+            "ai",
+            "ai-art",
+            "deep-learning"
+          ],
+          "tech_stack": [
+            "Python",
+            "HTML",
+            "C"
+          ]
+        }
+      },
+      {
+        "project_id": "deepseek-ai/DeepSeek-V3",
+        "title": "DeepSeek-V3",
+        "score": 0.598189,
+        "embedding_score": 0.799564,
+        "metadata_score": 0.533333,
+        "explanation": "질의어가 요약에 포함: ai",
+        "metadata": {
+          "summary": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "description": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "language": "Python",
+          "keywords": [
+            "deepseek-v3"
+          ],
+          "tech_stack": [
+            "Python",
+            "HTML"
+          ]
+        }
+      },
+      {
+        "project_id": "twitter/the-algorithm",
+        "title": "the-algorithm",
+        "score": 0.29918,
+        "embedding_score": 0.755504,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Source code for the X Recommendation Algorithm",
+          "description": "Source code for the X Recommendation Algorithm",
+          "language": "Scala",
+          "keywords": [
+            "machine learning",
+            "the-algorithm",
+            "for"
+          ],
+          "tech_stack": [
+            "Scala",
+            "Java"
+          ]
+        }
+      },
+      {
+        "project_id": "ashishps1/awesome-system-design-resources",
+        "title": "awesome-system-design-resources",
+        "score": 0.293318,
+        "embedding_score": 0.740702,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Learn System Design concepts and prepare for interviews using free resources.",
+          "description": "Learn System Design concepts and prepare for interviews using free resources.",
+          "language": "Java",
+          "keywords": [
+            "backend",
+            "computer-science",
+            "distributed-systems"
+          ],
+          "tech_stack": [
+            "Java",
+            "Python"
+          ]
+        }
+      },
+      {
+        "project_id": "freeCodeCamp/freeCodeCamp",
+        "title": "freeCodeCamp",
+        "score": 0.292509,
+        "embedding_score": 0.738658,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "language": "TypeScript",
+          "keywords": [
+            "certification",
+            "curriculum",
+            "education"
+          ],
+          "tech_stack": [
+            "React",
+            "Node.js",
+            "TypeScript",
+            "Python",
+            "C",
+            "Prisma"
+          ]
+        }
+      }
+    ],
+    "prompt": "너는 교내 프로젝트 아카이브 검색 도우미다.\n\n중요 규칙:\n1. 반드시 아래 검색 결과 context에 적힌 정보만 사용한다.\n2. context에 없는 기술, 기능, 설명은 절대 추가하지 않는다.\n3. 검색 시스템의 순위를 임의로 바꾸지 않는다.\n4. 반드시 검색순위 1번 프로젝트를 '가장 적합한 프로젝트'로 먼저 설명한다.\n5. 추가 후보는 검색순위 2번, 3번 순서대로 설명한다.\n6. 질문과 관련성이 낮은 후보는 \"추가 후보이지만 직접 관련성은 낮다\"고 말한다.\n7. 프로젝트명은 반드시 context의 title 또는 project_id를 그대로 사용한다.\n8. 한국어로 답변한다.\n\n사용자 질문:\n이미지 생성 AI 관련 프로젝트 있어?\n\n검색 시스템 판단:\n검색 시스템이 판단한 1순위 프로젝트는 stable-diffusion-webui (AUTOMATIC1111/stable-diffusion-webui)이다.\n\n검색 순위 요약:\n1위: stable-diffusion-webui (AUTOMATIC1111/stable-diffusion-webui) / score=0.866904 / reason=질의어와 키워드 일치: ai\n2위: DeepSeek-V3 (deepseek-ai/DeepSeek-V3) / score=0.598189 / reason=질의어가 요약에 포함: ai\n3위: the-algorithm (twitter/the-algorithm) / score=0.29918 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n4위: awesome-system-design-resources (ashishps1/awesome-system-design-resources) / score=0.293318 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n5위: freeCodeCamp (freeCodeCamp/freeCodeCamp) / score=0.292509 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n\n검색 결과 context:\n[검색순위 1]\nproject_id: AUTOMATIC1111/stable-diffusion-webui\ntitle: stable-diffusion-webui\nscore: 0.866904\nembedding_score: 0.758008\nmetadata_score: 1.0\nmatch_reason: 질의어와 키워드 일치: ai\nsummary: Stable Diffusion web UI\ndescription: Stable Diffusion web UI\nlanguage: Python\nkeywords: ai, ai-art, deep-learning\ntech_stack: Python, HTML, C\n\n[검색순위 2]\nproject_id: deepseek-ai/DeepSeek-V3\ntitle: DeepSeek-V3\nscore: 0.598189\nembedding_score: 0.799564\nmetadata_score: 0.533333\nmatch_reason: 질의어가 요약에 포함: ai\nsummary: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\ndescription: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\nlanguage: Python\nkeywords: deepseek-v3\ntech_stack: Python, HTML\n\n[검색순위 3]\nproject_id: twitter/the-algorithm\ntitle: the-algorithm\nscore: 0.29918\nembedding_score: 0.755504\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Source code for the X Recommendation Algorithm\ndescription: Source code for the X Recommendation Algorithm\nlanguage: Scala\nkeywords: machine learning, the-algorithm, for\ntech_stack: Scala, Java\n\n[검색순위 4]\nproject_id: ashishps1/awesome-system-design-resources\ntitle: awesome-system-design-resources\nscore: 0.293318\nembedding_score: 0.740702\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Learn System Design concepts and prepare for interviews using free resources.\ndescription: Learn System Design concepts and prepare for interviews using free resources.\nlanguage: Java\nkeywords: backend, computer-science, distributed-systems\ntech_stack: Java, Python\n\n[검색순위 5]\nproject_id: freeCodeCamp/freeCodeCamp\ntitle: freeCodeCamp\nscore: 0.292509\nembedding_score: 0.738658\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.\ndescription: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.\nlanguage: TypeScript\nkeywords: certification, curriculum, education\ntech_stack: React, Node.js, TypeScript, Python, C, Prisma\n\n답변 형식:\n1. 가장 적합한 프로젝트\n- 프로젝트명:\n- 추천 이유:\n- 근거가 되는 context 정보:\n\n2. 추가로 볼 만한 프로젝트\n- 프로젝트명:\n- 추천 이유:\n- 관련성 판단:\n\n3. 추천 순위 요약\n- 1순위:\n- 2순위:\n- 3순위:"
+  },
+  {
+    "query": "안드로이드 화면 미러링 도구 찾아줘",
+    "answer": "1. 가장 적합한 프로젝트\n- 프로젝트명: scrcpy (Genymobile/scrcpy)\n- 추천 이유: 키워드 일치: android\n- 검색 점수: 0.900092\n\n2. 추가로 볼 만한 프로젝트\n- 추가 후보가 없습니다.\n\n3. 추천 순위 요약\n- 1순위: scrcpy (Genymobile/scrcpy) / score=0.900092\n- 2순위: DeepSeek-V3 (deepseek-ai/DeepSeek-V3) / score=0.328562\n- 3순위: the-algorithm (twitter/the-algorithm) / score=0.309801",
+    "contexts": [
+      {
+        "rank": 1,
+        "project_id": "Genymobile/scrcpy",
+        "title": "scrcpy",
+        "context_text": "[검색순위 1]\nproject_id: Genymobile/scrcpy\ntitle: scrcpy\nscore: 0.900092\nembedding_score: 0.81835\nmetadata_score: 1.0\nmatch_reason: 키워드 일치: android\nsummary: Display and control your Android device\ndescription: Display and control your Android device\nlanguage: C\nkeywords: android, c, ffmpeg\ntech_stack: Java, C, FFmpeg, SDL2, Android",
+        "score": 0.900092,
+        "embedding_score": 0.81835,
+        "metadata_score": 1.0,
+        "explanation": "키워드 일치: android",
+        "metadata": {
+          "summary": "Display and control your Android device",
+          "description": "Display and control your Android device",
+          "language": "C",
+          "keywords": [
+            "android",
+            "c",
+            "ffmpeg"
+          ],
+          "tech_stack": [
+            "Java",
+            "C",
+            "FFmpeg",
+            "SDL2",
+            "Android"
+          ]
+        }
+      },
+      {
+        "rank": 2,
+        "project_id": "deepseek-ai/DeepSeek-V3",
+        "title": "DeepSeek-V3",
+        "context_text": "[검색순위 2]\nproject_id: deepseek-ai/DeepSeek-V3\ntitle: DeepSeek-V3\nscore: 0.328562\nembedding_score: 0.829703\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\ndescription: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\nlanguage: Python\nkeywords: deepseek-v3\ntech_stack: Python, HTML",
+        "score": 0.328562,
+        "embedding_score": 0.829703,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "description": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "language": "Python",
+          "keywords": [
+            "deepseek-v3"
+          ],
+          "tech_stack": [
+            "Python",
+            "HTML"
+          ]
+        }
+      },
+      {
+        "rank": 3,
+        "project_id": "twitter/the-algorithm",
+        "title": "the-algorithm",
+        "context_text": "[검색순위 3]\nproject_id: twitter/the-algorithm\ntitle: the-algorithm\nscore: 0.309801\nembedding_score: 0.782327\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Source code for the X Recommendation Algorithm\ndescription: Source code for the X Recommendation Algorithm\nlanguage: Scala\nkeywords: machine learning, the-algorithm, for\ntech_stack: Scala, Java",
+        "score": 0.309801,
+        "embedding_score": 0.782327,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Source code for the X Recommendation Algorithm",
+          "description": "Source code for the X Recommendation Algorithm",
+          "language": "Scala",
+          "keywords": [
+            "machine learning",
+            "the-algorithm",
+            "for"
+          ],
+          "tech_stack": [
+            "Scala",
+            "Java"
+          ]
+        }
+      },
+      {
+        "rank": 4,
+        "project_id": "ashishps1/awesome-system-design-resources",
+        "title": "awesome-system-design-resources",
+        "context_text": "[검색순위 4]\nproject_id: ashishps1/awesome-system-design-resources\ntitle: awesome-system-design-resources\nscore: 0.304685\nembedding_score: 0.769406\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Learn System Design concepts and prepare for interviews using free resources.\ndescription: Learn System Design concepts and prepare for interviews using free resources.\nlanguage: Java\nkeywords: backend, computer-science, distributed-systems\ntech_stack: Java, Python",
+        "score": 0.304685,
+        "embedding_score": 0.769406,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Learn System Design concepts and prepare for interviews using free resources.",
+          "description": "Learn System Design concepts and prepare for interviews using free resources.",
+          "language": "Java",
+          "keywords": [
+            "backend",
+            "computer-science",
+            "distributed-systems"
+          ],
+          "tech_stack": [
+            "Java",
+            "Python"
+          ]
+        }
+      },
+      {
+        "rank": 5,
+        "project_id": "protocolbuffers/protobuf",
+        "title": "protobuf",
+        "context_text": "[검색순위 5]\nproject_id: protocolbuffers/protobuf\ntitle: protobuf\nscore: 0.303485\nembedding_score: 0.766377\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Protocol Buffers - Google's data interchange format\ndescription: Protocol Buffers - Google's data interchange format\nlanguage: C++\nkeywords: marshalling, protobuf, protobuf-runtime\ntech_stack: C++, Java, Python, C",
+        "score": 0.303485,
+        "embedding_score": 0.766377,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Protocol Buffers - Google's data interchange format",
+          "description": "Protocol Buffers - Google's data interchange format",
+          "language": "C++",
+          "keywords": [
+            "marshalling",
+            "protobuf",
+            "protobuf-runtime"
+          ],
+          "tech_stack": [
+            "C++",
+            "Java",
+            "Python",
+            "C"
+          ]
+        }
+      }
+    ],
+    "search_results": [
+      {
+        "project_id": "Genymobile/scrcpy",
+        "title": "scrcpy",
+        "score": 0.900092,
+        "embedding_score": 0.81835,
+        "metadata_score": 1.0,
+        "explanation": "키워드 일치: android",
+        "metadata": {
+          "summary": "Display and control your Android device",
+          "description": "Display and control your Android device",
+          "language": "C",
+          "keywords": [
+            "android",
+            "c",
+            "ffmpeg"
+          ],
+          "tech_stack": [
+            "Java",
+            "C",
+            "FFmpeg",
+            "SDL2",
+            "Android"
+          ]
+        }
+      },
+      {
+        "project_id": "deepseek-ai/DeepSeek-V3",
+        "title": "DeepSeek-V3",
+        "score": 0.328562,
+        "embedding_score": 0.829703,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "description": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "language": "Python",
+          "keywords": [
+            "deepseek-v3"
+          ],
+          "tech_stack": [
+            "Python",
+            "HTML"
+          ]
+        }
+      },
+      {
+        "project_id": "twitter/the-algorithm",
+        "title": "the-algorithm",
+        "score": 0.309801,
+        "embedding_score": 0.782327,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Source code for the X Recommendation Algorithm",
+          "description": "Source code for the X Recommendation Algorithm",
+          "language": "Scala",
+          "keywords": [
+            "machine learning",
+            "the-algorithm",
+            "for"
+          ],
+          "tech_stack": [
+            "Scala",
+            "Java"
+          ]
+        }
+      },
+      {
+        "project_id": "ashishps1/awesome-system-design-resources",
+        "title": "awesome-system-design-resources",
+        "score": 0.304685,
+        "embedding_score": 0.769406,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Learn System Design concepts and prepare for interviews using free resources.",
+          "description": "Learn System Design concepts and prepare for interviews using free resources.",
+          "language": "Java",
+          "keywords": [
+            "backend",
+            "computer-science",
+            "distributed-systems"
+          ],
+          "tech_stack": [
+            "Java",
+            "Python"
+          ]
+        }
+      },
+      {
+        "project_id": "protocolbuffers/protobuf",
+        "title": "protobuf",
+        "score": 0.303485,
+        "embedding_score": 0.766377,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Protocol Buffers - Google's data interchange format",
+          "description": "Protocol Buffers - Google's data interchange format",
+          "language": "C++",
+          "keywords": [
+            "marshalling",
+            "protobuf",
+            "protobuf-runtime"
+          ],
+          "tech_stack": [
+            "C++",
+            "Java",
+            "Python",
+            "C"
+          ]
+        }
+      }
+    ],
+    "prompt": "너는 교내 프로젝트 아카이브 검색 도우미다.\n\n중요 규칙:\n1. 반드시 아래 검색 결과 context에 적힌 정보만 사용한다.\n2. context에 없는 기술, 기능, 설명은 절대 추가하지 않는다.\n3. 검색 시스템의 순위를 임의로 바꾸지 않는다.\n4. 반드시 검색순위 1번 프로젝트를 '가장 적합한 프로젝트'로 먼저 설명한다.\n5. 추가 후보는 검색순위 2번, 3번 순서대로 설명한다.\n6. 질문과 관련성이 낮은 후보는 \"추가 후보이지만 직접 관련성은 낮다\"고 말한다.\n7. 프로젝트명은 반드시 context의 title 또는 project_id를 그대로 사용한다.\n8. 한국어로 답변한다.\n\n사용자 질문:\n안드로이드 화면 미러링 도구 찾아줘\n\n검색 시스템 판단:\n검색 시스템이 판단한 1순위 프로젝트는 scrcpy (Genymobile/scrcpy)이다.\n\n검색 순위 요약:\n1위: scrcpy (Genymobile/scrcpy) / score=0.900092 / reason=키워드 일치: android\n2위: DeepSeek-V3 (deepseek-ai/DeepSeek-V3) / score=0.328562 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n3위: the-algorithm (twitter/the-algorithm) / score=0.309801 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n4위: awesome-system-design-resources (ashishps1/awesome-system-design-resources) / score=0.304685 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n5위: protobuf (protocolbuffers/protobuf) / score=0.303485 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n\n검색 결과 context:\n[검색순위 1]\nproject_id: Genymobile/scrcpy\ntitle: scrcpy\nscore: 0.900092\nembedding_score: 0.81835\nmetadata_score: 1.0\nmatch_reason: 키워드 일치: android\nsummary: Display and control your Android device\ndescription: Display and control your Android device\nlanguage: C\nkeywords: android, c, ffmpeg\ntech_stack: Java, C, FFmpeg, SDL2, Android\n\n[검색순위 2]\nproject_id: deepseek-ai/DeepSeek-V3\ntitle: DeepSeek-V3\nscore: 0.328562\nembedding_score: 0.829703\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\ndescription: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\nlanguage: Python\nkeywords: deepseek-v3\ntech_stack: Python, HTML\n\n[검색순위 3]\nproject_id: twitter/the-algorithm\ntitle: the-algorithm\nscore: 0.309801\nembedding_score: 0.782327\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Source code for the X Recommendation Algorithm\ndescription: Source code for the X Recommendation Algorithm\nlanguage: Scala\nkeywords: machine learning, the-algorithm, for\ntech_stack: Scala, Java\n\n[검색순위 4]\nproject_id: ashishps1/awesome-system-design-resources\ntitle: awesome-system-design-resources\nscore: 0.304685\nembedding_score: 0.769406\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Learn System Design concepts and prepare for interviews using free resources.\ndescription: Learn System Design concepts and prepare for interviews using free resources.\nlanguage: Java\nkeywords: backend, computer-science, distributed-systems\ntech_stack: Java, Python\n\n[검색순위 5]\nproject_id: protocolbuffers/protobuf\ntitle: protobuf\nscore: 0.303485\nembedding_score: 0.766377\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Protocol Buffers - Google's data interchange format\ndescription: Protocol Buffers - Google's data interchange format\nlanguage: C++\nkeywords: marshalling, protobuf, protobuf-runtime\ntech_stack: C++, Java, Python, C\n\n답변 형식:\n1. 가장 적합한 프로젝트\n- 프로젝트명:\n- 추천 이유:\n- 근거가 되는 context 정보:\n\n2. 추가로 볼 만한 프로젝트\n- 프로젝트명:\n- 추천 이유:\n- 관련성 판단:\n\n3. 추천 순위 요약\n- 1순위:\n- 2순위:\n- 3순위:"
+  },
+  {
+    "query": "추천 시스템이나 피드 랭킹 관련 프로젝트 알려줘",
+    "answer": "1. 가장 적합한 프로젝트\n- 프로젝트명: the-algorithm (twitter/the-algorithm)\n- 추천 이유: 요약 내 주제 언급: recommendation\n- 검색 점수: 0.775941\n\n2. 추가로 볼 만한 프로젝트\n- 추가 후보가 없습니다.\n\n3. 추천 순위 요약\n- 1순위: the-algorithm (twitter/the-algorithm) / score=0.775941\n- 2순위: DeepSeek-V3 (deepseek-ai/DeepSeek-V3) / score=0.318194\n- 3순위: system-design-primer (donnemartin/system-design-primer) / score=0.314943",
+    "contexts": [
+      {
+        "rank": 1,
+        "project_id": "twitter/the-algorithm",
+        "title": "the-algorithm",
+        "context_text": "[검색순위 1]\nproject_id: twitter/the-algorithm\ntitle: the-algorithm\nscore: 0.775941\nembedding_score: 0.785002\nmetadata_score: 1.0\nmatch_reason: 요약 내 주제 언급: recommendation\nsummary: Source code for the X Recommendation Algorithm\ndescription: Source code for the X Recommendation Algorithm\nlanguage: Scala\nkeywords: machine learning, the-algorithm, for\ntech_stack: Scala, Java",
+        "score": 0.775941,
+        "embedding_score": 0.785002,
+        "metadata_score": 1.0,
+        "explanation": "요약 내 주제 언급: recommendation",
+        "metadata": {
+          "summary": "Source code for the X Recommendation Algorithm",
+          "description": "Source code for the X Recommendation Algorithm",
+          "language": "Scala",
+          "keywords": [
+            "machine learning",
+            "the-algorithm",
+            "for"
+          ],
+          "tech_stack": [
+            "Scala",
+            "Java"
+          ]
+        }
+      },
+      {
+        "rank": 2,
+        "project_id": "deepseek-ai/DeepSeek-V3",
+        "title": "DeepSeek-V3",
+        "context_text": "[검색순위 2]\nproject_id: deepseek-ai/DeepSeek-V3\ntitle: DeepSeek-V3\nscore: 0.318194\nembedding_score: 0.803521\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\ndescription: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\nlanguage: Python\nkeywords: deepseek-v3\ntech_stack: Python, HTML",
+        "score": 0.318194,
+        "embedding_score": 0.803521,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "description": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "language": "Python",
+          "keywords": [
+            "deepseek-v3"
+          ],
+          "tech_stack": [
+            "Python",
+            "HTML"
+          ]
+        }
+      },
+      {
+        "rank": 3,
+        "project_id": "donnemartin/system-design-primer",
+        "title": "system-design-primer",
+        "context_text": "[검색순위 3]\nproject_id: donnemartin/system-design-primer\ntitle: system-design-primer\nscore: 0.314943\nembedding_score: 0.79531\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.\ndescription: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.\nlanguage: Python\nkeywords: design, design-patterns, design-system\ntech_stack: Python",
+        "score": 0.314943,
+        "embedding_score": 0.79531,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+          "language": "Python",
+          "keywords": [
+            "design",
+            "design-patterns",
+            "design-system"
+          ],
+          "tech_stack": [
+            "Python"
+          ]
+        }
+      },
+      {
+        "rank": 4,
+        "project_id": "ashishps1/awesome-system-design-resources",
+        "title": "awesome-system-design-resources",
+        "context_text": "[검색순위 4]\nproject_id: ashishps1/awesome-system-design-resources\ntitle: awesome-system-design-resources\nscore: 0.314453\nembedding_score: 0.794073\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Learn System Design concepts and prepare for interviews using free resources.\ndescription: Learn System Design concepts and prepare for interviews using free resources.\nlanguage: Java\nkeywords: backend, computer-science, distributed-systems\ntech_stack: Java, Python",
+        "score": 0.314453,
+        "embedding_score": 0.794073,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Learn System Design concepts and prepare for interviews using free resources.",
+          "description": "Learn System Design concepts and prepare for interviews using free resources.",
+          "language": "Java",
+          "keywords": [
+            "backend",
+            "computer-science",
+            "distributed-systems"
+          ],
+          "tech_stack": [
+            "Java",
+            "Python"
+          ]
+        }
+      },
+      {
+        "rank": 5,
+        "project_id": "practical-tutorials/project-based-learning",
+        "title": "project-based-learning",
+        "context_text": "[검색순위 5]\nproject_id: practical-tutorials/project-based-learning\ntitle: project-based-learning\nscore: 0.305336\nembedding_score: 0.77105\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Curated list of project-based tutorials\ndescription: Curated list of project-based tutorials\nlanguage: \nkeywords: beginner-project, cpp, golang\ntech_stack: Java, Python, HTML, C",
+        "score": 0.305336,
+        "embedding_score": 0.77105,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Curated list of project-based tutorials",
+          "description": "Curated list of project-based tutorials",
+          "language": "",
+          "keywords": [
+            "beginner-project",
+            "cpp",
+            "golang"
+          ],
+          "tech_stack": [
+            "Java",
+            "Python",
+            "HTML",
+            "C"
+          ]
+        }
+      }
+    ],
+    "search_results": [
+      {
+        "project_id": "twitter/the-algorithm",
+        "title": "the-algorithm",
+        "score": 0.775941,
+        "embedding_score": 0.785002,
+        "metadata_score": 1.0,
+        "explanation": "요약 내 주제 언급: recommendation",
+        "metadata": {
+          "summary": "Source code for the X Recommendation Algorithm",
+          "description": "Source code for the X Recommendation Algorithm",
+          "language": "Scala",
+          "keywords": [
+            "machine learning",
+            "the-algorithm",
+            "for"
+          ],
+          "tech_stack": [
+            "Scala",
+            "Java"
+          ]
+        }
+      },
+      {
+        "project_id": "deepseek-ai/DeepSeek-V3",
+        "title": "DeepSeek-V3",
+        "score": 0.318194,
+        "embedding_score": 0.803521,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "description": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen",
+          "language": "Python",
+          "keywords": [
+            "deepseek-v3"
+          ],
+          "tech_stack": [
+            "Python",
+            "HTML"
+          ]
+        }
+      },
+      {
+        "project_id": "donnemartin/system-design-primer",
+        "title": "system-design-primer",
+        "score": 0.314943,
+        "embedding_score": 0.79531,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+          "language": "Python",
+          "keywords": [
+            "design",
+            "design-patterns",
+            "design-system"
+          ],
+          "tech_stack": [
+            "Python"
+          ]
+        }
+      },
+      {
+        "project_id": "ashishps1/awesome-system-design-resources",
+        "title": "awesome-system-design-resources",
+        "score": 0.314453,
+        "embedding_score": 0.794073,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Learn System Design concepts and prepare for interviews using free resources.",
+          "description": "Learn System Design concepts and prepare for interviews using free resources.",
+          "language": "Java",
+          "keywords": [
+            "backend",
+            "computer-science",
+            "distributed-systems"
+          ],
+          "tech_stack": [
+            "Java",
+            "Python"
+          ]
+        }
+      },
+      {
+        "project_id": "practical-tutorials/project-based-learning",
+        "title": "project-based-learning",
+        "score": 0.305336,
+        "embedding_score": 0.77105,
+        "metadata_score": 0.0,
+        "explanation": "임베딩 유사도가 높아 검색 결과에 포함되었습니다.",
+        "metadata": {
+          "summary": "Curated list of project-based tutorials",
+          "description": "Curated list of project-based tutorials",
+          "language": "",
+          "keywords": [
+            "beginner-project",
+            "cpp",
+            "golang"
+          ],
+          "tech_stack": [
+            "Java",
+            "Python",
+            "HTML",
+            "C"
+          ]
+        }
+      }
+    ],
+    "prompt": "너는 교내 프로젝트 아카이브 검색 도우미다.\n\n중요 규칙:\n1. 반드시 아래 검색 결과 context에 적힌 정보만 사용한다.\n2. context에 없는 기술, 기능, 설명은 절대 추가하지 않는다.\n3. 검색 시스템의 순위를 임의로 바꾸지 않는다.\n4. 반드시 검색순위 1번 프로젝트를 '가장 적합한 프로젝트'로 먼저 설명한다.\n5. 추가 후보는 검색순위 2번, 3번 순서대로 설명한다.\n6. 질문과 관련성이 낮은 후보는 \"추가 후보이지만 직접 관련성은 낮다\"고 말한다.\n7. 프로젝트명은 반드시 context의 title 또는 project_id를 그대로 사용한다.\n8. 한국어로 답변한다.\n\n사용자 질문:\n추천 시스템이나 피드 랭킹 관련 프로젝트 알려줘\n\n검색 시스템 판단:\n검색 시스템이 판단한 1순위 프로젝트는 the-algorithm (twitter/the-algorithm)이다.\n\n검색 순위 요약:\n1위: the-algorithm (twitter/the-algorithm) / score=0.775941 / reason=요약 내 주제 언급: recommendation\n2위: DeepSeek-V3 (deepseek-ai/DeepSeek-V3) / score=0.318194 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n3위: system-design-primer (donnemartin/system-design-primer) / score=0.314943 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n4위: awesome-system-design-resources (ashishps1/awesome-system-design-resources) / score=0.314453 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n5위: project-based-learning (practical-tutorials/project-based-learning) / score=0.305336 / reason=임베딩 유사도가 높아 검색 결과에 포함되었습니다.\n\n검색 결과 context:\n[검색순위 1]\nproject_id: twitter/the-algorithm\ntitle: the-algorithm\nscore: 0.775941\nembedding_score: 0.785002\nmetadata_score: 1.0\nmatch_reason: 요약 내 주제 언급: recommendation\nsummary: Source code for the X Recommendation Algorithm\ndescription: Source code for the X Recommendation Algorithm\nlanguage: Scala\nkeywords: machine learning, the-algorithm, for\ntech_stack: Scala, Java\n\n[검색순위 2]\nproject_id: deepseek-ai/DeepSeek-V3\ntitle: DeepSeek-V3\nscore: 0.318194\nembedding_score: 0.803521\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\ndescription: <!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html --> <!-- markdownlint-disable no-duplicate-header --> <div align=\"center\"> <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" /> </div> <hr> <div align=\"cen\nlanguage: Python\nkeywords: deepseek-v3\ntech_stack: Python, HTML\n\n[검색순위 3]\nproject_id: donnemartin/system-design-primer\ntitle: system-design-primer\nscore: 0.314943\nembedding_score: 0.79531\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.\ndescription: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.\nlanguage: Python\nkeywords: design, design-patterns, design-system\ntech_stack: Python\n\n[검색순위 4]\nproject_id: ashishps1/awesome-system-design-resources\ntitle: awesome-system-design-resources\nscore: 0.314453\nembedding_score: 0.794073\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Learn System Design concepts and prepare for interviews using free resources.\ndescription: Learn System Design concepts and prepare for interviews using free resources.\nlanguage: Java\nkeywords: backend, computer-science, distributed-systems\ntech_stack: Java, Python\n\n[검색순위 5]\nproject_id: practical-tutorials/project-based-learning\ntitle: project-based-learning\nscore: 0.305336\nembedding_score: 0.77105\nmetadata_score: 0.0\nmatch_reason: 임베딩 유사도가 높아 검색 결과에 포함되었습니다.\nsummary: Curated list of project-based tutorials\ndescription: Curated list of project-based tutorials\nlanguage: \nkeywords: beginner-project, cpp, golang\ntech_stack: Java, Python, HTML, C\n\n답변 형식:\n1. 가장 적합한 프로젝트\n- 프로젝트명:\n- 추천 이유:\n- 근거가 되는 context 정보:\n\n2. 추가로 볼 만한 프로젝트\n- 프로젝트명:\n- 추천 이유:\n- 관련성 판단:\n\n3. 추천 순위 요약\n- 1순위:\n- 2순위:\n- 3순위:"
+  }
+]

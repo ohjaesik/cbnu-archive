@@ -46,11 +46,41 @@ TECH_ALIASES = {
 }
 
 TOPIC_ALIASES = {
-    "추천 시스템": "recommendation system",
-    "추천": "recommendation",
-    "검색": "search",
+    # recommendation / ranking 계열
+    "추천 시스템": "recommendation",
+    "추천시스템": "recommendation",
+    "추천 알고리즘": "recommendation",
+    "추천알고리즘": "recommendation",
+    "피드 랭킹": "recommendation",
+    "피드랭킹": "recommendation",
+    "랭킹 알고리즘": "recommendation",
+    "ranking algorithm": "recommendation",
+    "recommendation system": "recommendation",
+    "recommendation algorithm": "recommendation",
+
+    # RAG / search 계열
+    "rag": "rag",
     "문서 검색": "document search",
+    "문서검색": "document search",
     "코드 검색": "code search",
+    "코드검색": "code search",
+    "검색 시스템": "search system",
+
+    # image generation 계열
+    "이미지 생성 ai": "image generation",
+    "이미지 생성": "image generation",
+    "생성 ai": "generative ai",
+    "stable diffusion": "stable diffusion",
+    "스테이블 디퓨전": "stable diffusion",
+
+    # android / mirroring 계열
+    "안드로이드": "android",
+    "android": "android",
+    "화면 미러링": "screen mirroring",
+    "미러링": "screen mirroring",
+    "스크린 미러링": "screen mirroring",
+
+    # general topics
     "챗봇": "chatbot",
     "교육": "education",
     "학습": "education",
