@@ -25,6 +25,7 @@ def main():
     pipeline = RAGPipeline(
         corpus_path=corpus_path,
         top_k=5,
+        use_llm=False,
     )
 
     results = []
